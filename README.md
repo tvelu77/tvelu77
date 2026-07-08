@@ -1,46 +1,96 @@
-<h2 align="left">Hi 👋! My name is Thomas VELU and I'm a software engineer, from France</h2>
+<div align="center">
 
-###
+<img src="https://img.shields.io/badge/-Thomas%20VELU-4169E1?style=for-the-badge&labelColor=1a1a2e" alt="Thomas VELU" height="45"/>
+
+### Software Engineer · Java & Spring Boot Specialist
+
+*I don't know how, but it's working.* 🤓
+
+<br/>
+
+![Profile Views](https://img.shields.io/badge/Based%20in-Paris%2C%20France-4169E1?style=flat-square&logo=googlemaps&logoColor=white&labelColor=1a1a2e)
+![Education](https://img.shields.io/badge/ESIEE%20Paris-Engineering%20Degree-4169E1?style=flat-square&logo=graduation-cap&logoColor=white&labelColor=1a1a2e)
+
+</div>
+
+<br/>
+
+## 👋 About Me
+
+I build reliable, scalable software solutions with a focus on **clean architecture** and **efficient code**. Passionate about backend development, system design, and open-source contributions.
+
+- 🎓 **Education** — Engineering Degree from ESIEE Paris
+- 💼 **Focus** — Backend development, system design, DevOps practices
+- 🌍 **Location** — Paris, France
+- 🚀 **Currently exploring** — Performance optimization & microservices architecture
+
+<br/>
+
+## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tvelu77&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tvelu77&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+
+![Java](https://img.shields.io/badge/Java-4169E1?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-4169E1?style=for-the-badge&logo=springboot&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-4169E1?style=for-the-badge&logo=php&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-4169E1?style=for-the-badge&logo=symfony&logoColor=white)
+
+![C](https://img.shields.io/badge/C-4169E1?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-4169E1?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-4169E1?style=for-the-badge&logo=javascript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-4169E1?style=for-the-badge&logo=html5&logoColor=white)
+
 </div>
 
-###
+<br/>
 
-###
+**Tools & practices:** Git · Docker · CI/CD · REST APIs · Microservices
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" height="30" alt="symfony logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+<br/>
+
+## 📌 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔌 [php-serial](https://github.com/tvelu77/php-serial)
+Cross-platform PHP class for serial port access, designed for portability across environments.
+
+`PHP`
+
+</td>
+<td width="50%" valign="top">
+
+### ⚡ [OCPP Configuration Server](https://github.com/LastProject-ESIEE/OCPPConfigurationServer)
+Web application to update and configure charge points using the OCPP protocol.
+
+`Java`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🔗 Connect with Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=4169E1)](https://github.com/tvelu77)
+[![Codeberg](https://img.shields.io/badge/Codeberg-1a1a2e?style=for-the-badge&logo=codeberg&logoColor=4169E1)](https://codeberg.org/tvelu77)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=4169E1)](https://www.linkedin.com/in/thomas-velu/)
+
 </div>
 
-###
+<br/>
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/thomas-velu/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
+<div align="center">
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+*Thanks for stopping by!* 💙
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/tvelu77/tvelu77/output/snake.svg" alt="Snake animation" />
-
-###
